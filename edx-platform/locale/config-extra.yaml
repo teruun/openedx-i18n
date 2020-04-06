@@ -21,6 +21,7 @@ locales:
     - uk  # Ukranian
     - vi  # Vietnamese
     - zh_TW  # Chinese (Taiwan)
+    - mn
 
 # Copied from edx-platform/conf/locale/config.yaml
 generate_merge:
